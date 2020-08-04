@@ -1,5 +1,5 @@
 <h3 align="center">
-  Github Explore
+  Consumindo API
 </h3>
 
 <img src="Users.png" alt="Github Explore"/>
