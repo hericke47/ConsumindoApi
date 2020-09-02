@@ -6,7 +6,7 @@
 
 ## :rocket: Sobre a aplicação
 
-Nesta aplicação consumimos uma api pelo back e uma api pelo front
+Nesta aplicação consumimos uma api pelo back e uma api pelo front, praticando conceitos de consumo de api
 
 ## Tecnologias utilizadas :memo:
 
